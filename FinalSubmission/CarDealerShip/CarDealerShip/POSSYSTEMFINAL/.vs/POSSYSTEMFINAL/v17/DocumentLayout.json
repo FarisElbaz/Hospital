@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\productcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:productcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\finances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:finances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|c:\\users\\faris elbaz\\downloads\\finalsubmission123\\finalsubmission\\cardealership\\cardealership\\possystemfinal\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\vehiclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:vehiclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\finances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:finances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\shoppingcart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:shoppingcart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\productcatalog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:productcatalog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|c:\\users\\faris elbaz\\downloads\\finalsubmission123\\finalsubmission\\cardealership\\cardealership\\possystemfinal\\employeesmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:employeesmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\finances.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:finances.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\vehiclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:vehiclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\vehiclemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:vehiclemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\employeesmanage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:employeesmanage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\employeesmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:employeesmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\intro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:intro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ui designs\\roundbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:ui designs\\roundbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D0898-A5DE-4B5C-8715-3C8D8C8BEE18}|POSSYSTEMFINAL.csproj|solutionrelative:customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ShoppingCart.cs",
+              "RelativeToolTip": "ShoppingCart.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswA4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:01:41.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleManager.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\VehicleManager.cs",
+              "RelativeDocumentMoniker": "VehicleManager.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\VehicleManager.cs",
+              "RelativeToolTip": "VehicleManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:17:25.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FINANCES.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\FINANCES.cs",
+              "RelativeDocumentMoniker": "FINANCES.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\FINANCES.cs [Design]",
+              "RelativeToolTip": "FINANCES.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:59:57.048Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FINANCES.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\FINANCES.cs",
+              "RelativeDocumentMoniker": "FINANCES.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\FINANCES.cs",
+              "RelativeToolTip": "FINANCES.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:11:30.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ProductCatalog.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ProductCatalog.cs",
+              "RelativeToolTip": "ProductCatalog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:45:58.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCart.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ShoppingCart.Designer.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.Designer.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ShoppingCart.Designer.cs",
+              "RelativeToolTip": "ShoppingCart.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:37:35.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCatalog.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ProductCatalog.Designer.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Designer.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ProductCatalog.Designer.cs",
+              "RelativeToolTip": "ProductCatalog.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:22:01.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesManage.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\EmployeesManage.cs",
+              "RelativeDocumentMoniker": "EmployeesManage.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\EmployeesManage.cs",
+              "RelativeToolTip": "EmployeesManage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:22:10.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "STAFF.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\STAFF.cs",
+              "RelativeDocumentMoniker": "STAFF.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\STAFF.cs",
+              "RelativeToolTip": "STAFF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAC8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:02:23.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FINANCES.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\FINANCES.Designer.cs",
+              "RelativeDocumentMoniker": "FINANCES.Designer.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\FINANCES.Designer.cs",
+              "RelativeToolTip": "FINANCES.Designer.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAD4vzgAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:27:07.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ADMIN.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ADMIN.cs",
+              "RelativeDocumentMoniker": "ADMIN.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ADMIN.cs",
+              "RelativeToolTip": "ADMIN.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAD4vycAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:17:06.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VehicleManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\VehicleManager.cs",
+              "RelativeDocumentMoniker": "VehicleManager.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\VehicleManager.cs [Design]",
+              "RelativeToolTip": "VehicleManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:09:00.169Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ADMIN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ADMIN.cs",
+              "RelativeDocumentMoniker": "ADMIN.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\OneDrive\\Desktop\\Firasemsek\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ADMIN.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\Firasemsek\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\ADMIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:05:50.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VehicleManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\VehicleManager.Designer.cs",
+              "RelativeDocumentMoniker": "VehicleManager.Designer.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\VehicleManager.Designer.cs",
+              "RelativeToolTip": "VehicleManager.Designer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAD4vzsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:16:33.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeesManage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\EmployeesManage.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeesManage.Designer.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\EmployeesManage.Designer.cs",
+              "RelativeToolTip": "EmployeesManage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:38:50.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeesManage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\EmployeesManage.cs",
+              "RelativeDocumentMoniker": "EmployeesManage.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\EmployeesManage.cs [Design]",
+              "RelativeToolTip": "EmployeesManage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:05:35.806Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SALES.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\SALES.cs",
+              "RelativeDocumentMoniker": "SALES.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\SALES.cs",
+              "RelativeToolTip": "SALES.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvwUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:06:16.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SALES.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\SALES.cs",
+              "RelativeDocumentMoniker": "SALES.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\OneDrive\\Desktop\\Firasemsek\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\SALES.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\Firasemsek\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\SALES.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:05:19.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Intro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\Intro.cs",
+              "RelativeDocumentMoniker": "Intro.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\OneDrive\\Desktop\\Firasemsek\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\Intro.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\Firasemsek\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\Intro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T01:31:07.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Intro.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\Intro.cs",
+              "RelativeDocumentMoniker": "Intro.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\Intro.cs",
+              "RelativeToolTip": "Intro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T01:35:12.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Intro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\Intro.Designer.cs",
+              "RelativeDocumentMoniker": "Intro.Designer.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\Intro.Designer.cs",
+              "RelativeToolTip": "Intro.Designer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:18:05.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Roundbuttons.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\UI Designs\\Roundbuttons.cs",
+              "RelativeDocumentMoniker": "UI Designs\\Roundbuttons.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\OneDrive\\Desktop\\Firasemsek\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\UI Designs\\Roundbuttons.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\Firasemsek\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\UI Designs\\Roundbuttons.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:19:40.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\Customers.cs",
+              "RelativeDocumentMoniker": "Customers.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\Customers.cs",
+              "RelativeToolTip": "Customers.cs",
+              "ViewState": "AQIAADoBAAAAAAAAAAASwE0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:29:25.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Customers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faris Elbaz\\Downloads\\FinalSubmission123\\FinalSubmission\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\Customers.cs",
+              "RelativeDocumentMoniker": "Customers.cs",
+              "ToolTip": "C:\\Users\\Faris Elbaz\\OneDrive\\Desktop\\Firasemsek\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\Customers.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\Firasemsek\\CarDealerShip\\CarDealerShip\\POSSYSTEMFINAL\\Customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:05:42.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
