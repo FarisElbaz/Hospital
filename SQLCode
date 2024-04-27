@@ -1,0 +1,81 @@
+Go
+CREATE TABLE [dbo].[Employees] (
+    [Employee_ID]         INT           IDENTITY(1,1) NOT NULL,
+    [Name]                VARCHAR (255) NOT NULL,
+    [Contact_Number]      VARCHAR (20)  NOT NULL,
+    [Years_of_Experience] INT           NOT NULL,
+    PRIMARY KEY NONCLUSTERED ([Employee_ID] ASC)
+);
+Go
+CREATE TABLE [dbo].[Nurses] (
+    [Nurse_Board_Certification] NVARCHAR (50) NOT NULL,
+    [Employee_ID]               INT           NOT NULL,
+    CONSTRAINT [PK_Nurses] PRIMARY KEY NONCLUSTERED ([Employee_ID] ASC),
+    CONSTRAINT [FK_Nurses_Employees] FOREIGN KEY ([Employee_ID]) REFERENCES [dbo].[Employees] ([Employee_ID]) ON DELETE CASCADE ON UPDATE CASCADE
+);
+go
+CREATE TABLE [dbo].[Doctors] (
+    [Doctor_Board_Certification] NVARCHAR (50) NOT NULL,
+    [Employee_ID]                INT           NOT NULL,
+    CONSTRAINT [PK_Doctors] PRIMARY KEY NONCLUSTERED ([Employee_ID] ASC),
+    CONSTRAINT [FK_Doctors_Employees] FOREIGN KEY ([Employee_ID]) REFERENCES [dbo].[Employees] ([Employee_ID]) ON DELETE CASCADE ON UPDATE CASCADE
+);
+GO
+CREATE TABLE [dbo].[MedicalDegree] (
+    [Medical_Degree] NVARCHAR (50) NOT NULL,
+    [Employee_ID]    INT           CONSTRAINT [DEFAULT_MedicalDegree_Employee_ID] DEFAULT ((0)) NOT NULL,
+    CONSTRAINT [PK_MedicalDegree] PRIMARY KEY NONCLUSTERED ([Employee_ID] ASC),
+    CONSTRAINT [FK_MedicalDegree_Employees] FOREIGN KEY ([Employee_ID]) REFERENCES [dbo].[Employees] ([Employee_ID]) ON DELETE SET DEFAULT ON UPDATE SET DEFAULT
+);
+GO
+CREATE TABLE [dbo].[Patients] (
+    [P_ID]            INT           IDENTITY(1,1) NOT NULL,
+    [DOB]             DATE          NOT NULL,
+    [P_Address]       VARCHAR (255) NOT NULL,
+    [P_ContactNumber] VARCHAR (20)  NOT NULL,
+    [P_Gender]        VARCHAR (10)  NOT NULL,
+    [P_Name]          VARCHAR (255) NOT NULL,
+    PRIMARY KEY CLUSTERED ([P_ID] ASC)
+);
+GO
+CREATE TABLE [dbo].[MedicalRecord] (
+    [RecordID]   INT           IDENTITY(1,1) NOT NULL,
+    [Diagnosis]  NVARCHAR (50) NOT NULL,
+    [Medication] NVARCHAR (50) NOT NULL,
+    [P_ID]       INT           NOT NULL,
+    CONSTRAINT [PK_MedicalRecord] PRIMARY KEY NONCLUSTERED ([RecordID] ASC),
+    CONSTRAINT [FK_MedicalRecord_Patients] FOREIGN KEY ([P_ID]) REFERENCES [dbo].[Patients] ([P_ID]) ON DELETE CASCADE ON UPDATE CASCADE
+);
+GO
+CREATE TABLE [dbo].[Visits] (
+    [Visit_ID]           INT           NOT NULL,
+    [Visit_Date]         DATE          NOT NULL,
+    [Payment]            INT           NOT NULL,
+    [Reason_Description] NVARCHAR (50) NOT NULL,
+    [P_ID]               INT           CONSTRAINT [DEFAULT_Visits_P_ID] DEFAULT ((0)) NOT NULL,
+    [RecordID]           INT           CONSTRAINT [DEFAULT_Visits_RecordID] DEFAULT ((0)) NOT NULL,
+    [Employee_ID_Nurse]  INT           CONSTRAINT [DEFAULT_Visits_Employee_ID_Nurse] DEFAULT ((0)) NOT NULL,
+    [Employee_ID_Doctor] INT           CONSTRAINT [DEFAULT_Visits_Employee_ID_Doctor] DEFAULT ((0)) NOT NULL,
+    CONSTRAINT [PK_Visits] PRIMARY KEY NONCLUSTERED ([Visit_ID] ASC),
+    CONSTRAINT [FK_Visits_Doctors] FOREIGN KEY ([Employee_ID_Doctor]) REFERENCES [dbo].[Employees] ([Employee_ID]) ON DELETE CASCADE ON UPDATE CASCADE,
+    CONSTRAINT [FK_Visits_MedicalRecord] FOREIGN KEY ([RecordID]) REFERENCES [dbo].[MedicalRecord] ([RecordID]) ON DELETE CASCADE ON UPDATE CASCADE,
+    CONSTRAINT [FK_Visits_Nurses] FOREIGN KEY ([Employee_ID_Nurse]) REFERENCES [dbo].[Employees] ([Employee_ID]),
+    CONSTRAINT [FK_Visits_Patients] FOREIGN KEY ([P_ID]) REFERENCES [dbo].[Patients] ([P_ID])
+);
+GO
+
+CREATE TABLE [dbo].[NursingDegree] (
+    [Nursing_Degree] NVARCHAR (50) NOT NULL,
+    [Employee_ID]    INT           NOT NULL,
+    CONSTRAINT [PK_NursingDegree] PRIMARY KEY NONCLUSTERED ([Employee_ID] ASC),
+    CONSTRAINT [FK_NursingDegree_Employees] FOREIGN KEY ([Employee_ID]) REFERENCES [dbo].[Employees] ([Employee_ID]) ON DELETE CASCADE ON UPDATE CASCADE
+);
+
+GO
+CREATE TABLE [dbo].[Takes_care_of] (
+    [P_ID]        INT NOT NULL,
+    [Employee_ID] INT NOT NULL,
+    PRIMARY KEY CLUSTERED ([P_ID] ASC, [Employee_ID] ASC),
+    FOREIGN KEY ([Employee_ID]) REFERENCES [dbo].[Employees] ([Employee_ID]),
+    FOREIGN KEY ([P_ID]) REFERENCES [dbo].[Patients] ([P_ID])
+);
